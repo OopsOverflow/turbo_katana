@@ -1,1 +1,7 @@
 _build/
+*.o
+lex.c 
+gram.c 
+gram.output 
+gram.h 
+interp
